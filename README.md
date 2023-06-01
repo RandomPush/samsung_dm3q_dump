@@ -1,0 +1,14 @@
+# dm3qksx-user 13 TP1A.220624.014 S918NKSU1AWC8 release-keys
+- manufacturer: samsung
+- platform: kalama
+- codename: dm3q
+- flavor: dm3qksx-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: S918NKSU1AWC8
+- tags: release-keys
+- fingerprint: samsung/dm3qksx/dm3q:13/TP1A.220624.014/S918NKSU1AWC8:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: dm3qksx-user-13-TP1A.220624.014-S918NKSU1AWC8-release-keys
+- repo: samsung_dm3q_dump

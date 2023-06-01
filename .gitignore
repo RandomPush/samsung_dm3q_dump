@@ -1,0 +1,13 @@
+system_ext/apex/com.android.vndk.v30.apex
+bootRE/boot.elf
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+system/system/lib64/libsuperresolution_raw.arcsoft.so
+system/system/app/KTAuth/KTAuth.apk
+system/system/app/KTCustomerService/KTCustomerService.apk
+system/system/app/HoneyBoard/HoneyBoard.apk
+system/system/priv-app/SumeNNService/SumeNNService.apk
+system/system/priv-app/wallpaper-res/wallpaper-res.apk
+system/system/priv-app/AREmojiEditor/AREmojiEditor.apk
+recovery.img
