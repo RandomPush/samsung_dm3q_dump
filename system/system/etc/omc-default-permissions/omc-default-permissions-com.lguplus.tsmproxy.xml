@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<omc-default-permissions>
+    <sales-code csc="LUC">
+        <package name="com.lguplus.tsmproxy">
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="false" />
+        </package>
+    </sales-code>
+</omc-default-permissions>

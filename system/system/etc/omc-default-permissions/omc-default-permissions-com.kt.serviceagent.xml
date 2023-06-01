@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<omc-default-permissions>
+    <sales-code csc="SKC">
+        <package name="com.kt.serviceagent">
+            <permission name="android.permission.RECEIVE_SMS" systemfixed="true" />
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="true" />
+            <permission name="android.permission.CALL_PHONE" systemfixed="true" />
+            <permission name="android.permission.ACCESS_COARSE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_FINE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" systemfixed="true" />
+        </package>
+    </sales-code>
+    <sales-code csc="KTC">
+        <package name="com.kt.serviceagent">
+            <permission name="android.permission.RECEIVE_SMS" systemfixed="true" />
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="true" />
+            <permission name="android.permission.CALL_PHONE" systemfixed="true" />
+            <permission name="android.permission.ACCESS_COARSE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_FINE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" systemfixed="true" />
+        </package>
+    </sales-code>
+    <sales-code csc="LGU">
+        <package name="com.kt.serviceagent">
+            <permission name="android.permission.RECEIVE_SMS" systemfixed="true" />
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="true" />
+            <permission name="android.permission.CALL_PHONE" systemfixed="true" />
+            <permission name="android.permission.ACCESS_COARSE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_FINE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" systemfixed="true" />
+        </package>
+    </sales-code>
+    <sales-code csc="KOO">
+        <package name="com.kt.serviceagent">
+            <permission name="android.permission.RECEIVE_SMS" systemfixed="true" />
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="true" />
+            <permission name="android.permission.CALL_PHONE" systemfixed="true" />
+            <permission name="android.permission.ACCESS_COARSE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_FINE_LOCATION" systemfixed="true" />
+            <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" systemfixed="true" />
+        </package>
+    </sales-code>
+</omc-default-permissions>
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file declares which signature|privileged permissions should be granted to privileged
+    applications that come with the platform
+    -->
+    <permissions>
+        <privapp-permissions package="com.skt.skaf.OA00199800">
+            <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+			<permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+			<permission name="android.permission.FORCE_STOP_PACKAGES"/>
+			<permission name="android.permission.REAL_GET_TASKS"/>
+			<permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+			<permission name="android.permission.RECEIVE_DATA_ACTIVITY_CHANGE"/>
+			<permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+			<permission name="android.permission.MODIFY_PHONE_STATE"/>
+			<permission name="android.permission.INTERACT_ACROSS_USERS"/>
+			<permission name="android.permission.MANAGE_USERS"/>
+			<permission name="android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST"/>
+			<permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS"/>
+        </privapp-permissions>
+	</permissions>

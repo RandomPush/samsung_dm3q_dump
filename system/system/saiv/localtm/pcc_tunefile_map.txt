@@ -1,0 +1,39 @@
+1_0_56_S5KHP2  pcc_wide_night.dat
+1_2_56_S5KHP2  pcc_wide_night.dat
+31_0_56_S5KHP2 pcc_wide_night.dat
+31_2_56_S5KHP2 pcc_wide_night.dat
+21_0_56_S5KHP2 pcc_wide_night.dat
+21_2_56_S5KHP2 pcc_wide_night.dat
+
+1_0_52_IMX754  pcc_tele1_night.dat
+1_2_52_IMX754  pcc_tele1_night.dat
+31_0_52_IMX754 pcc_tele1_night.dat
+31_2_52_IMX754 pcc_tele1_night.dat
+21_0_52_IMX754 pcc_tele1_night.dat
+21_2_52_IMX754 pcc_tele1_night.dat
+
+1_0_54_IMX754  pcc_tele2_night.dat
+1_2_54_IMX754  pcc_tele2_night.dat
+31_0_54_IMX754 pcc_tele2_night.dat
+31_2_54_IMX754 pcc_tele2_night.dat
+21_0_54_IMX754 pcc_tele2_night.dat
+21_2_54_IMX754 pcc_tele2_night.dat
+
+1_0_58_IMX564  pcc_uw_night.dat
+1_2_58_IMX564  pcc_uw_night.dat
+31_0_58_IMX564 pcc_uw_night.dat
+31_2_58_IMX564 pcc_uw_night.dat
+21_0_58_IMX564 pcc_uw_night.dat
+21_2_58_IMX564 pcc_uw_night.dat
+
+2_0_1_S5K3LU pcc_front_night_flashoff.dat
+2_2_1_S5K3LU pcc_front_night_flashoff.dat
+2_3_1_S5K3LU pcc_front_night_flashon.dat
+
+31_0_1_S5K3LU pcc_front_night_flashoff.dat
+31_2_1_S5K3LU pcc_front_night_flashoff.dat
+31_3_1_S5K3LU pcc_front_night_flashon.dat
+
+25_0_1_S5K3LU pcc_front_night_flashoff.dat
+25_2_1_S5K3LU pcc_front_night_flashoff.dat
+25_3_1_S5K3LU pcc_front_night_flashon.dat

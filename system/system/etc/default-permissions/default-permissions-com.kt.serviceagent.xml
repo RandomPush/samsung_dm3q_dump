@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<exceptions>
+    <exception package="com.kt.serviceagent">
+        <permission name="android.permission.RECEIVE_SMS" fixed="true"/>
+        <permission name="android.permission.READ_PHONE_STATE" fixed="true"/>
+        <permission name="android.permission.CALL_PHONE" fixed="true"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION" fixed="true"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION" fixed="true"/>
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" fixed="true"/>
+    </exception>
+</exceptions>

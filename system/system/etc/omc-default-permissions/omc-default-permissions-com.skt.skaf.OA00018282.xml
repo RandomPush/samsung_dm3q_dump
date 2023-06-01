@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<omc-default-permissions>
+    <sales-code csc="SKC">
+        <package name="com.skt.skaf.OA00018282">
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="false" />
+        </package>
+    </sales-code>
+    <sales-code csc="KTC">
+        <package name="com.skt.skaf.OA00018282">
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="false" />
+        </package>
+    </sales-code>
+    <sales-code csc="LUC">
+        <package name="com.skt.skaf.OA00018282">
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="false" />
+        </package>
+    </sales-code>
+    <sales-code csc="KOO">
+        <package name="com.skt.skaf.OA00018282">
+            <permission name="android.permission.READ_PHONE_STATE" systemfixed="false" />
+        </package>
+    </sales-code>
+</omc-default-permissions>

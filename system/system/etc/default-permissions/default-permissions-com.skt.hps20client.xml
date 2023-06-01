@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<exceptions>
+    <exception package="com.skt.hps20client">
+        <permission name="android.permission.RECEIVE_WAP_PUSH" fixed="true"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION" fixed="true"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION" fixed="true"/>
+        <permission name="android.permission.READ_PHONE_STATE" fixed="true"/>
+        <permission name="android.permission.RECEIVE_SMS" fixed="true"/>
+        <permission name="android.permission.READ_SMS" fixed="true"/>
+        <permission name="android.permission.ACTIVITY_RECOGNITION" fixed="true"/>
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" fixed="true"/>
+    </exception>
+</exceptions>

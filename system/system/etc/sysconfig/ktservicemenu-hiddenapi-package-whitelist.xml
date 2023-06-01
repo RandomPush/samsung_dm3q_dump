@@ -1,0 +1,3 @@
+<config>
+    <hidden-api-whitelisted-app package="com.kt.olleh.servicemenu" />
+</config>

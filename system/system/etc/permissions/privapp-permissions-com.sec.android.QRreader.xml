@@ -1,0 +1,21 @@
+<!--
+    This XML file declares which signature|privileged permissions should be
+    granted to privileged applications that come with the platform
+    -->
+<permissions>
+    <privapp-permissions package="com.sec.android.QRreader">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.READ_SETTINGS"/>
+        <permission name="android.permission.READ_CONTACTS"/>
+        <permission name="com.sec.android.widgetapp.q1_penmemo.permission.READ"/>
+        <permission name="com.sec.android.permission.READ_MEMO"/>
+        <permission name="com.diotek.penmemo.util.PenMemoProvider.permission.READ"/>
+        <permission name="com.infraware.provider.SNoteProvider.permission.READ"/>
+        <permission name="com.sec.android.provider.video.READ_EXTERNAL_STORAGE"/>
+        <permission name="samsung.android.snoteprovider.permission.READ"/>
+        <permission name="com.sec.android.quickmemo.provider.QuickMemoProvider.permission.READ"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="com.samsung.android.memo.READ"/>
+        <permission name="com.wssnps.permission.COM_WSSNPS"/>
+    </privapp-permissions>
+</permissions>
